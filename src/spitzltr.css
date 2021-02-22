@@ -1,0 +1,14 @@
+.light {
+  color: blueviolet;
+}
+.heavy {
+  color: dodgerblue;
+}
+.odd {
+  background-color: blanchedalmond;
+  border: 1ch;
+}
+.even {
+  background-color: cadetblue;
+  border: 1ch;
+}
